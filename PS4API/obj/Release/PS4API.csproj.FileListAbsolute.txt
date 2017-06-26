@@ -1,0 +1,5 @@
+C:\Users\CoreyPC\documents\visual studio 2015\Projects\PS4API\PS4API\bin\Release\PS4API.dll
+C:\Users\CoreyPC\documents\visual studio 2015\Projects\PS4API\PS4API\bin\Release\PS4API.pdb
+C:\Users\CoreyPC\documents\visual studio 2015\Projects\PS4API\PS4API\obj\Release\PS4API.csprojResolveAssemblyReference.cache
+C:\Users\CoreyPC\documents\visual studio 2015\Projects\PS4API\PS4API\obj\Release\PS4API.dll
+C:\Users\CoreyPC\documents\visual studio 2015\Projects\PS4API\PS4API\obj\Release\PS4API.pdb
